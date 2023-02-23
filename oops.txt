@@ -1,0 +1,13 @@
+ What is Abstraction 
+ 
+ hiding internal Implementation and just highlight the set of services what we are offring . 
+
+Example - ATM Machine
+ 
+Ad..
+Security 
+
+
+
+
+  
